@@ -32,7 +32,7 @@ first time learning CS stuff. wooh!
     </ol>
     <h3>Countries with small Brown Bear Populations</h3>
       <p>Some countries with smaller brown bear populations include Armenia, Belarus, Bulgaria, China, Finland, France, Greece, India, Japan, Nepal, Poland, Romania, Slovenia, Turkmenistan, and Uzbekistan.</p>
-    <p>For more information go to this link <a href=”link”> https://en.wikipedia.org/wiki/Brown_bear </a> 
+    <p>For more information go to this link <a href=”link”> https://en.wikipedia.org/wiki/Brown_bear </a> </p>
   </body>
   </html> 
   
