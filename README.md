@@ -35,7 +35,7 @@ first time learning CS stuff. wooh!
     <p>For more information go to this link <a href=”link”> https://en.wikipedia.org/wiki/Brown_bear </a> </p>
     <button>subscribe</button> 
     <h2>Media</h2>
-    < img src=”https://www.nps.gov/lacl/learn/nature/images/Image-w-cred-cap_-1200w-_-Brown-Bear-page_-brown-bear-in-fog_2.jpg?maxwidth=1200&maxheight=1200&autorotate=false”/> 
+    <img src=”https://www.nps.gov/lacl/learn/nature/images/Image-w-cred-cap_-1200w-_-Brown-Bear-page_-brown-bear-in-fog_2.jpg?maxwidth=1200&maxheight=1200&autorotate=false”/> 
   </body>
   </html> 
   
