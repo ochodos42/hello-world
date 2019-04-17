@@ -21,6 +21,18 @@ first time learning CS stuff. wooh!
       <li> ordered </li>
       <li> Nelsoni (extinct) </li>
     </ul>
+     <h3> Features </h3>
+    <p>Brown bears are not always completely brown. Some can be reddish or yellowish. They have very large, curved claws and huge paws. Male brown bears are often 30% larger than female brown bears. They can range from 5 feet to 9 feet from head to toe.</p>
+    <h2>Habitat</h2>
+    <h3>Countries with Large Brown Bear Populations</h3>
+    <ol> 
+      <li> Russia </li>
+      <li> US </li>
+      <li> Canada </li>
+    </ol>
+    <h3>Countries with small Brown Bear Populations</h3>
+      <p>Some countries with smaller brown bear populations include Armenia, Belarus, Bulgaria, China, Finland, France, Greece, India, Japan, Nepal, Poland, Romania, Slovenia, Turkmenistan, and Uzbekistan.</p>
+    <p>For more information go to this link <a href=”/”> https://en.wikipedia.org/wiki/Brown_bear </a> 
   </body>
   </html> 
   
